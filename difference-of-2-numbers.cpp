@@ -5,7 +5,7 @@ int main() {
     cout<<"The difference of 2 numbers"<<endl;
     cout<<"---------------------"<<endl;
 
-    int a, b, sum=0;
+    int a, b, diff=0;
 
     cout<<"Enter the first number: ";
     cin>>a;
@@ -15,7 +15,7 @@ int main() {
 
     sum = a - b;
 
-    cout<<"The difference of "<<a<<" and "<<b<<" is "<<sum<<endl;
+    cout<<"The difference of "<<a<<" and "<<b<<" is "<<diff<<endl;
 
     return 0;
 }

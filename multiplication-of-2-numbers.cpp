@@ -13,7 +13,7 @@ int main() {
     cout<<"Enter the second number: ";
     cin>>b;
 
-    sum = a * b;
+    res = a * b;
 
     cout<<"The multiplication of "<<a<<" and "<<b<<" is "<<res<<endl;
 

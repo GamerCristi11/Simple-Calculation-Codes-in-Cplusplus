@@ -13,7 +13,7 @@ int main() {
     cout<<"Enter the second number: ";
     cin>>b;
 
-    sum = a - b;
+    diff = a - b;
 
     cout<<"The difference of "<<a<<" and "<<b<<" is "<<diff<<endl;
 
